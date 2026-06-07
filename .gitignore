@@ -1,0 +1,54 @@
+# Runtime outputs
+output/
+output_*/
+downloads/
+downloads_*/
+runs/
+run_reports/
+*_reports/
+
+# Media and lyrics
+*.m4a
+*.mp3
+*.flac
+*.aac
+*.wav
+*.ogg
+*.opus
+*.webm
+*.mp4
+*.lrc
+
+# Reports and temporary files
+*.log
+*.pid
+*.tmp
+*.part
+*.exit.json
+source_urls.csv
+*_source_urls.csv
+*_urls.csv
+.musictool_cache/
+
+# Secrets / account material
+cookies.txt
+*.cookies.txt
+*.cookie
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

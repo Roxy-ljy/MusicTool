@@ -1,0 +1,4 @@
+interface:
+  display_name: "QQ Music AMpod Workflow"
+  short_description: "QQ音乐公开歌单到AMpod包的匹配、歌词与复核流程"
+  default_prompt: "Use $qq-music-ampod-workflow to process a QQ Music playlist into an AMpod-ready Music/Lyrics package and rescue skipped songs."

@@ -1,0 +1,44 @@
+{
+  "source_playlist_url": "https://y.qq.com/n/ryqq/playlist/123456",
+  "playlist_id": 123456,
+  "entries": [
+    {
+      "track": {
+        "index": 1,
+        "title": "Example Song",
+        "artists": [
+          "Example Artist"
+        ],
+        "album": "Example Album",
+        "duration_seconds": 210,
+        "qq_song_id": "example_001"
+      },
+      "status": "downloaded",
+      "candidate": {
+        "bvid": "example_track_001",
+        "title": "Example Song",
+        "uploader": "Example Artist - Topic",
+        "duration_seconds": 210,
+        "view_count": 0,
+        "url": "https://music.youtube.com/watch?v=example_track_001"
+      },
+      "candidates": [],
+      "score": {
+        "total_score": 93.5,
+        "title_score": 45.0,
+        "artist_score": 25.0,
+        "duration_score": 15.0,
+        "quality_score": 8.0,
+        "popularity_score": 0.5,
+        "penalty": 0.0,
+        "accepted": true,
+        "reasons": [
+          "fictional sample"
+        ]
+      },
+      "output_path": "downloads/Example Song.m4a",
+      "reason": "downloaded",
+      "error": null
+    }
+  ]
+}
